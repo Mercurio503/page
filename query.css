@@ -1,3 +1,253 @@
+
+/* @media screen and (max-width: 1300px){
+    .titulo{
+        width: 67%;
+        height: auto;
+        font-size: 38px;
+        position: absolute;
+        top:10%;
+        left:20%;
+       
+    }
+    .logo{
+        width: 45px;
+        border-radius: 20px;
+        position: absolute;
+        top:10%;
+        left:10%;
+        
+    }
+    h1{
+        font-size: 1.5rem;
+    }
+    h3{
+        font-size:1.5rem;
+    }
+    p{
+        font-size: 1.5rem;
+    }
+    .linea{
+        width: 75%;
+        height: 1.5px;
+    }
+    .fotos{
+        width: 200px;
+        margin-top: 5px;
+        height: auto;
+        opacity: 0.7;
+        transform: translateY(20px);
+        transition: transform 0.5s, box-shadow 0.5s, opacity 0.6s;
+    }
+    form{
+        width: 500px;
+        height: auto;
+        background: linear-gradient(to left, rgb(238, 147, 163),rgb(40, 35, 35));
+        display:flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        border-radius: 40px;
+    }
+    input{
+        width: 80%;
+        height: 50px;
+        margin:10px;
+        margin-left: 45px;
+        border-radius: 5px;
+    }
+    
+    textarea{
+        padding: 5px;
+        border-radius: 10px;
+        margin:15px;
+    }
+    button{
+        margin-left: 210px;
+    }
+    .redes{
+        width: 100px;
+        height: 100px;
+        border-radius: 20px;
+        margin-top: 0px;
+        margin-left: 50px;
+    }
+    .logo2{
+        width: 100%;
+        height: auto;
+        border-radius: 20px;
+        /* box-shadow: 0 0 30px rgb(206, 206, 206 0.6); */
+    /* }
+}  */
+
+@media screen and (max-width: 1200px){
+    .titulo{
+        width: 67%;
+        height: auto;
+        font-size: 30px;
+        position: absolute;
+        top:10%;
+        left:20%;
+       
+    }
+    .logo{
+        width: 40px;
+        border-radius: 20px;
+        position: absolute;
+        top:10%;
+        left:10%;
+        
+    }
+    h1{
+        font-size: 1.5rem;
+    }
+    h3{
+        font-size:1.5rem;
+    }
+    p{
+        font-size: 1.5rem;
+    }
+    .linea{
+        width: 75%;
+        height: 1.5px;
+    }
+    .fotos{
+        width: 200px;
+        margin-top: 5px;
+        height: auto;
+        opacity: 0.7;
+        transform: translateY(20px);
+        transition: transform 0.5s, box-shadow 0.5s, opacity 0.6s;
+    }
+    form{
+        width: 500px;
+        height: auto;
+        background: linear-gradient(to left, rgb(238, 147, 163),rgb(40, 35, 35));
+        display:flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        border-radius: 40px;
+    }
+    input{
+        width: 80%;
+        height: 50px;
+        margin:10px;
+        margin-left: 45px;
+        border-radius: 5px;
+    }
+    
+    textarea{
+        padding: 5px;
+        border-radius: 10px;
+        margin:15px;
+    }
+    button{
+        margin-left: 210px;
+    }
+    .redes{
+        width: 100px;
+        height: 100px;
+        border-radius: 20px;
+        margin-top: 0px;
+        margin-left: 50px;
+    }
+    .logo2{
+        width: 100%;
+        height: auto;
+        border-radius: 20px;
+        /* box-shadow: 0 0 30px rgb(206, 206, 206 0.6); */
+    }
+    
+    
+
+}
+
+@media screen and (max-width: 1100px){
+    .titulo{
+        width: 67%;
+        height: auto;
+        font-size: 30px;
+        position: absolute;
+        top:9%;
+        left:20%;
+       
+    }
+    .logo{
+        width: 40px;
+        border-radius: 20px;
+        position: absolute;
+        top:9%;
+        left:10%;
+        
+    }
+    h1{
+        font-size: 1.5rem;
+    }
+    h3{
+        font-size:1.5rem;
+    }
+    p{
+        font-size: 1.5rem;
+    }
+    .linea{
+        width: 75%;
+        height: 1.5px;
+    }
+    .fotos{
+        width: 150px;
+        margin-top: 5px;
+        height: auto;
+        opacity: 0.7;
+        transform: translateY(20px);
+        transition: transform 0.5s, box-shadow 0.5s, opacity 0.6s;
+    }
+    form{
+        width: 500px;
+        height: auto;
+        background: linear-gradient(to left, rgb(238, 147, 163),rgb(40, 35, 35));
+        display:flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        border-radius: 40px;
+    }
+    input{
+        width: 80%;
+        height: 50px;
+        margin:10px;
+        margin-left: 45px;
+        border-radius: 5px;
+    }
+    
+    textarea{
+        padding: 5px;
+        border-radius: 10px;
+        margin:15px;
+    }
+    button{
+        margin-left: 210px;
+    }
+    .redes{
+        width: 100px;
+        height: 100px;
+        border-radius: 20px;
+        margin-top: 0px;
+        margin-left: 50px;
+    }
+    .logo2{
+        width: 100%;
+        height: auto;
+        border-radius: 20px;
+        /* box-shadow: 0 0 30px rgb(206, 206, 206 0.6); */
+    }
+    
+    
+
+}
+
 @media screen and (max-width: 1000px){
     .titulo{
         width: 67%;
